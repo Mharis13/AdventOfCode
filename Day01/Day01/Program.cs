@@ -106,6 +106,7 @@
         return auxList;
     }
 
+
     static void Main(string[] args)
     {
         part1();
