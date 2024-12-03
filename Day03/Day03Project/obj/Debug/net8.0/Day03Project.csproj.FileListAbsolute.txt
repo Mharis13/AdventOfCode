@@ -1,0 +1,15 @@
+C:\Users\mario\Desktop\AdventOfCode\Day03\Day03Project\bin\Debug\net8.0\Day03Project.exe
+C:\Users\mario\Desktop\AdventOfCode\Day03\Day03Project\bin\Debug\net8.0\Day03Project.deps.json
+C:\Users\mario\Desktop\AdventOfCode\Day03\Day03Project\bin\Debug\net8.0\Day03Project.runtimeconfig.json
+C:\Users\mario\Desktop\AdventOfCode\Day03\Day03Project\bin\Debug\net8.0\Day03Project.dll
+C:\Users\mario\Desktop\AdventOfCode\Day03\Day03Project\bin\Debug\net8.0\Day03Project.pdb
+C:\Users\mario\Desktop\AdventOfCode\Day03\Day03Project\obj\Debug\net8.0\Day03Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\Desktop\AdventOfCode\Day03\Day03Project\obj\Debug\net8.0\Day03Project.AssemblyInfoInputs.cache
+C:\Users\mario\Desktop\AdventOfCode\Day03\Day03Project\obj\Debug\net8.0\Day03Project.AssemblyInfo.cs
+C:\Users\mario\Desktop\AdventOfCode\Day03\Day03Project\obj\Debug\net8.0\Day03Project.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\AdventOfCode\Day03\Day03Project\obj\Debug\net8.0\Day03Project.sourcelink.json
+C:\Users\mario\Desktop\AdventOfCode\Day03\Day03Project\obj\Debug\net8.0\Day03Project.dll
+C:\Users\mario\Desktop\AdventOfCode\Day03\Day03Project\obj\Debug\net8.0\refint\Day03Project.dll
+C:\Users\mario\Desktop\AdventOfCode\Day03\Day03Project\obj\Debug\net8.0\Day03Project.pdb
+C:\Users\mario\Desktop\AdventOfCode\Day03\Day03Project\obj\Debug\net8.0\Day03Project.genruntimeconfig.cache
+C:\Users\mario\Desktop\AdventOfCode\Day03\Day03Project\obj\Debug\net8.0\ref\Day03Project.dll
